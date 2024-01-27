@@ -1,0 +1,38 @@
+0:  Pasto
+1:  Arbusto redondo
+2:  agua de chill
+3:  Arbusto vertical
+4:  Arbusto horizontal
+5:  Arbusto esquina 4
+6:  roca 1
+7:  roca 2
+8:  roca 3
+9:  roca 4
+10: roca 5 
+11: tronco isquierda
+12: tronco centro
+13: tronco derecha
+14: puente esquina superior isquierda
+15: puente entrada up
+16: puente esquina superior derecha
+17: puente centro
+18: puente esquina inferior isquierda
+19: puente entrada down
+20: puente esquina inferior derecha
+21: puente pared isquierda
+22: puente pared derecha
+23: cima montaña cesped isquierda
+24: cima montaña cesped centro
+25: cima montaña cesped derecha
+26: montaña isquierda vertical 1
+27: montaña isquierda vertical 2
+28: montaña isquierda vertical 3
+29: montaña centro vertical 1
+30: montaña centro vertical 2
+31: montaña centro vertical 3
+32: montaña derecha vertical 1
+33: montaña derecha vertical 2
+34: montaña derecha vertical 3
+35: cima montaña pasto derecha 2
+36: montaña pasto isquierda 1
+37: montaña pasto isquierda 215
